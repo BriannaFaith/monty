@@ -1,7 +1,5 @@
 #include "monty.h"
 
-
-
 /**
  *
  *  * push - Add node to the stack
@@ -66,11 +64,9 @@ void push(stack_t **stack, unsigned int line_number)
 
 }
 
-
-
 /**
  *
- *  * pall - Print the stack
+ *  * pall - Prints the stack
  *
  *   * @stack: head of linkedlist
  *
@@ -136,10 +132,6 @@ void pall(stack_t **stack, unsigned int line_number)
 
 }
 
-
-
-
-
 /**
  *
  *  * pint - Print the stack
@@ -187,7 +179,6 @@ void pint(stack_t **stack, unsigned int line_number)
 							printf("\n");
 
 }
-
 
 
 /**

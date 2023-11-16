@@ -67,7 +67,6 @@ char *get_int(int num)
  *     */
 
 unsigned int abs_m(int i)
-
 {
 
 		if (i < 0)
@@ -89,7 +88,6 @@ unsigned int abs_m(int i)
  *     * Return: int of len of buff
  *
  *      */
-
 int len_buff_uint(unsigned int num, unsigned int base)
 
 {

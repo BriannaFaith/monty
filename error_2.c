@@ -38,7 +38,7 @@ void op_e(unsigned int line_number, char *op)
 }
 
 /**
- * pchar_e - phar error msg for 0 stack & and non-char val.
+ * pchar_e- phar error msg for 0 stack & and non-char val.
  * @line_number: line number of the instruction
  * @msg: error message to print.
  * Return: EXIT_FAILURE.

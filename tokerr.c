@@ -9,7 +9,6 @@
  *    */
 
 unsigned int array_len(void)
-
 {
 
 		unsigned int token_len = 0;
@@ -25,7 +24,7 @@ unsigned int array_len(void)
 }
 /**
  *
- *  * tokerr - makes the last element of instructions as error code.
+ *  * tokerr -Makes the last element of instructions as error code.
  *
  *   * @error_status: type int where the error is saved as srt.
  *

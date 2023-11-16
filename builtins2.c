@@ -2,7 +2,7 @@
 
 /**
  *
- *  * pop - Add node to the stack
+ *  * pop - Adds node to the stack
  *
  *   * @stack: head of linkedlist
  *
@@ -190,8 +190,6 @@ void add(stack_t **stack, unsigned int line_number)
  *
  *     */
 
-
-
 void sub(stack_t **stack, unsigned int line_number)
 
 {
@@ -350,7 +348,7 @@ void mul(stack_t **stack, unsigned int line_number)
 
 /**
  *
- *  * pchar - Print char.
+ *  * pchar - Prints char.
  *
  *   * @stack: head of linkedlist
  *

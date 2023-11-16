@@ -2,7 +2,7 @@
 
 /**
  *
- *  * free_dlistint - free a dlistint_t list.
+ *  * free_dlistint - frees a dlistint_t list.
  *
  *   * @stack: pointer to the first element of the list
  *

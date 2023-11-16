@@ -1,5 +1,4 @@
 #include "monty.h"
-
 /**
 * create_node_stack - create a node stack.
 * @stack: A pointer to top and bottom stack
